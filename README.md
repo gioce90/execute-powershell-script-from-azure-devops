@@ -28,3 +28,5 @@ Gioacchino Piazzolla AKA Gioak AKA Gioce90
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## License
+This repository is licensed with the [MIT](LICENSE) license.
