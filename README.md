@@ -22,8 +22,9 @@ In this repo you will find two files:
 - Never check-in on a repository your secret PAT. However if this happens, immediately invalidate it from Azure DevOps User settings and then delete the old invalid PAT from your code.
 - In your Azure DevOps repository, my advice is to use this scaffolding: /myScriptFolder/v1/myScript.ps1. In this way you can versioning your scripts. In the myScriptFolder folder you can put a .MD file who explain how the script works.
 
-## Developed by
-Gioacchino Piazzolla AKA Gioak AKA Gioce90
+## TODO
+- Being able to indicate a specific branch and commit
+- Expand remote calls for scripts on GitHub and other online repositories
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
