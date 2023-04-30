@@ -23,6 +23,7 @@ In this repo you will find two files:
 - In your Azure DevOps repository, my advice is to use this scaffolding: /myScriptFolder/v1/myScript.ps1. In this way you can versioning your scripts. In the myScriptFolder folder you can put a .MD file who explain how the script works.
 
 ## TODO
+- Being able to call remote scripts that require input parameters
 - Being able to indicate a specific branch and commit
 - Expand remote calls for scripts on GitHub and other online repositories
 
