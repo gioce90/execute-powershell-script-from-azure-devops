@@ -1,13 +1,10 @@
 # Execute powershell script from Azure DevOps
 A way to quickly call and execute a remote powershell script saved on a Azure DevOps repository.
 
-
-
 ## Scope
 Sometimes happens that you have Powershell scripts shared with your work team on an Azure DevOps repository. Scripts that can be updated frequently. It can be useful to run the latest updated version, without constantly checking and downloading. With this script you configure it once and you'll be able to run the latest version forever. Simple :)
 
 ## How it works
-
 A ScriptExecuter function will call and execute your PowerShell script saved on a repository. You just need to set where your script is and how to access it.
 
 In this repo you will find two files:
